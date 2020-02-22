@@ -8394,10 +8394,10 @@ websocket-extensions@>=0.1.1:
   resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.1.tgz#76899499c184b6ef754377c2dbb0cd6cb55d29e7"
   integrity sha1-domUmcGEtu91Q3fC27DNbLVdKec=
 
-webworkify-webpack@^2.0.5:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/webworkify-webpack/-/webworkify-webpack-2.0.5.tgz#38b35bb05632d7c3c38923ac5c2ecfeaf71d1f77"
-  integrity sha1-OLNbsFYy18PDiSOsXC7P6vcdH3c=
+webworkify-webpack@^2.1.5:
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/webworkify-webpack/-/webworkify-webpack-2.1.5.tgz#bf4336624c0626cbe85cf1ffde157f7aa90b1d1c"
+  integrity sha512-2akF8FIyUvbiBBdD+RoHpoTbHMQF2HwjcxfDvgztAX5YwbZNyrtfUMgvfgFVsgDhDPVTlkbb5vyasqDHfIDPQw==
 
 whatwg-encoding@^1.0.1:
   version "1.0.1"
