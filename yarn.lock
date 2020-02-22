@@ -6759,10 +6759,10 @@ react-dom@^16.0.0:
     object-assign "^4.1.1"
     prop-types "^15.6.0"
 
-react-progressive-image@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.npmjs.org/react-progressive-image/-/react-progressive-image-0.3.0.tgz#dd28e299c474216f2d640def5d4bc5b09aea7457"
-  integrity sha1-3SjimcR0IW8tZA3vXUvFsJrqdFc=
+react-progressive-image@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/react-progressive-image/-/react-progressive-image-0.6.0.tgz#56b1c7153a6e1ebbe2a3bbf8f98c37410fbc67c2"
+  integrity sha512-/yc8N3lHskPQkubm+QH5RIQHA89Sigv7p9UkvbHzKVE2OBb6njhmquk7GW/f2Y//mzk5DesFHN/hV5RWhd6IXA==
 
 react-test-renderer@^16.0.0:
   version "16.0.0"
